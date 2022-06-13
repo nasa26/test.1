@@ -4,6 +4,6 @@ int main()
 {
     printf("Hello");
     /*hello you*/
-    return 0;
+    /*too*/
     return 0;
 }
